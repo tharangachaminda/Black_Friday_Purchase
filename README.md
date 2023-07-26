@@ -28,7 +28,7 @@ For this project stackholders possibly be
 - Customers of those product categories
 
 ### Data Sources
-This project is based on [Black Friday Dataset]('https://www.kaggle.com/datasets/sdolezel/black-friday') dataset.
+This project is based on [Black Friday Dataset](https://www.kaggle.com/datasets/sdolezel/black-friday) dataset.
 
 ### Technology and Tools
 I will be using 
