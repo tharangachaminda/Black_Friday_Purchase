@@ -43,3 +43,6 @@ I will be using
 ## 🏆 Lessons Learned
 
 1. Cross Tabulation (Pandas ***crosstab()***)
+
+## Demo
+[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/black_friday)
